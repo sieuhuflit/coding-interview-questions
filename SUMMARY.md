@@ -4,12 +4,4 @@
 
 ## Easy
 
-* [👋 Meet the Team!](easy/meet-the-team.md)
-
-## Medium
-
-* [🤝 How we Work Together](medium/how-we-work-together.md)
-
-## Hard
-
-* [🌴 Requesting Time Off](hard/requesting-time-off.md)
+* [Two number sum](easy/two-number-sum.md)
