@@ -4,4 +4,4 @@
 
 ## Easy
 
-* [Two number sum](easy/two-number-sum.md)
+* [Two number sum](team/meet-the-team.md)
