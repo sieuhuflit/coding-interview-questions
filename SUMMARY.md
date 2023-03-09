@@ -1,24 +1,15 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Coding Interview](README.md)
 
-## About us
+## Easy
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [👋 Meet the Team!](easy/meet-the-team.md)
 
-## Team
+## Medium
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [🤝 How we Work Together](medium/how-we-work-together.md)
 
-## Collaborating
+## Hard
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 Requesting Time Off](hard/requesting-time-off.md)
