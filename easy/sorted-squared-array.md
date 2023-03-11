@@ -30,7 +30,6 @@ array = [1, 2, 3, 5, 6, 8, 9]
 ```javascript
 // O(n) time | O(1) space
 
-
 ```
 {% endcode %}
 {% endtab %}
@@ -39,7 +38,6 @@ array = [1, 2, 3, 5, 6, 8, 9]
 {% code lineNumbers="true" %}
 ```javascript
 // O(n) time | O(1) space
-
 
 ```
 {% endcode %}

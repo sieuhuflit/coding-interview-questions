@@ -43,7 +43,6 @@ results = [0, 0, 1]
 ```javascript
 // O(n) time | O(1) space
 
-
 ```
 {% endcode %}
 {% endtab %}
@@ -52,7 +51,6 @@ results = [0, 0, 1]
 {% code lineNumbers="true" %}
 ```javascript
 // O(n) time | O(1) space
-
 
 ```
 {% endcode %}
