@@ -29,15 +29,7 @@ array = [1, 2, 3, 5, 6, 8, 9]
 {% code lineNumbers="true" %}
 ```javascript
 // O(n) time | O(1) space
-function isValidSubsequence(array, sequence) {
-  let index = 0;
-  let seqIndex = 0;
-  while (index < array.length && seqIndex < sequence.length) {
-    if (array[index] === sequence[seqIndex]) seqIndex++;
-    index++;
-  }
-  return seqIndex === sequence.length;
-}
+
 
 ```
 {% endcode %}
@@ -47,14 +39,7 @@ function isValidSubsequence(array, sequence) {
 {% code lineNumbers="true" %}
 ```javascript
 // O(n) time | O(1) space
-function isValidSubsequence(array, sequence) {
-  let seqIndex = 0;
-  for (const value of array) {
-    if (seqIndex === sequence.length) break;
-    if (sequence[seqIndex] === value) seqIndex++;
-  }
-  return seqIndex === sequence.length;
-}
+
 
 ```
 {% endcode %}
