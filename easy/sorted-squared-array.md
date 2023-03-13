@@ -28,7 +28,17 @@ array = [1, 2, 3, 5, 6, 8, 9]
 {% tab title="Solution 1" %}
 {% code lineNumbers="true" %}
 ```javascript
-// O(n) time | O(1) space
+// O(nlogn) time | O(n) space
+function sortedSquaredArray(array) {
+  const sortedSquares = new Array(array.length).fill(0);
+
+  for (let i = 0; i < array.length; i++) {
+    const element = array[i];
+    sortedSquares[i] = element * element;
+  }
+  sortedSquaredArray.sort((a, b) => a - b)
+  return sortedSquares;
+}
 
 ```
 {% endcode %}
@@ -37,8 +47,24 @@ array = [1, 2, 3, 5, 6, 8, 9]
 {% tab title="Solution 2" %}
 {% code lineNumbers="true" %}
 ```javascript
-// O(n) time | O(1) space
-
+// O(n) time | O(n) space
+function sortedSquaredArray(array) {
+  const sortedSquared = new Array(array.length).fill(0);
+  let start = 0;
+  let end = array.length - 1;
+  for (let i = array.length - 1; i >= 0; i--) {
+    const startValue = array[start];
+    const endValue = array[end];
+    if (Math.abs(startValue) < Math.abs(endValue)) {
+      sortedSquared[i] = endValue * endValue
+      end--;
+    } else {
+      sortedSquared[i] = startValue * startValue
+      start++;
+    }
+  }
+  return sortedSquared;
+}
 ```
 {% endcode %}
 {% endtab %}
