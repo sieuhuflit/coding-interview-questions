@@ -8,3 +8,4 @@
 * [Validate Subsequence](easy/validate-subsequence.md)
 * [Sorted Squared Array](easy/sorted-squared-array.md)
 * [Tournament Winner](easy/tournament-winner.md)
+* [Non-Constructible Change](easy/non-constructible-change.md)
