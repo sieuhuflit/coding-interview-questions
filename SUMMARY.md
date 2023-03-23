@@ -13,3 +13,4 @@
 * [Branch sum](easy/branch-sum.md)
 * [Node Depths](easy/node-depths.md)
 * [Depth-first Search](easy/depth-first-search.md)
+* [Minimum Waiting Time](easy/minimum-waiting-time.md)
