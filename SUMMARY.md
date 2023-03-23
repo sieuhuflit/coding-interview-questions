@@ -11,3 +11,5 @@
 * [Non-Constructible Change](easy/non-constructible-change.md)
 * [Find Closest Value in BTS](easy/find-closest-value-in-bts.md)
 * [Branch sum](easy/branch-sum.md)
+* [Node Depths](easy/node-depths.md)
+* [Depth-first Search](easy/depth-first-search.md)
