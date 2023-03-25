@@ -21,6 +21,14 @@
 * [Three Number Sum](medium/three-number-sum.md)
 * [Smallest Difference](medium/smallest-difference.md)
 * [Move Element To End](medium/move-element-to-end.md)
+* [Monotonic Array](medium/monotonic-array.md)
+* [Spiral Traverse](medium/spiral-traverse.md)
+* [Longest Peak](medium/longest-peak.md)
+* [Array Of Products](medium/array-of-products.md)
+* [First Duplicate Value](medium/first-duplicate-value.md)
+* [Merge Overlapping Intervals](medium/merge-overlapping-intervals.md)
+* [Zero Sum Subarray](medium/zero-sum-subarray.md)
+* [Validate BST](medium/validate-bst.md)
 
 ## Hard
 
