@@ -28,7 +28,12 @@
 * [First Duplicate Value](medium/first-duplicate-value.md)
 * [Merge Overlapping Intervals](medium/merge-overlapping-intervals.md)
 * [Zero Sum Subarray](medium/zero-sum-subarray.md)
+* [BST Traversal](medium/bst-traversal.md)
 * [Validate BST](medium/validate-bst.md)
+* [Min Height BST](medium/min-height-bst.md)
+* [Find Kth Largest Value In BST](medium/find-kth-largest-value-in-bst.md)
+* [Reconstruct BST](medium/reconstruct-bst.md)
+* [Invert Binary Tree](medium/invert-binary-tree.md)
 
 ## Hard
 
